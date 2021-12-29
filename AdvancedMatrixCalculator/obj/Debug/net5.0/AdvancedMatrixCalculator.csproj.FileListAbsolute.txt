@@ -1,0 +1,80 @@
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\project calculator\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.genruntimeconfig.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking6\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.genruntimeconfig.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking8\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.genruntimeconfig.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\checking10\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.genruntimeconfig.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\bin\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\ref\AdvancedMatrixCalculator.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\AdvancedMatrixCalculator\AdvancedMatrixCalculator\obj\Debug\net5.0\AdvancedMatrixCalculator.genruntimeconfig.cache
